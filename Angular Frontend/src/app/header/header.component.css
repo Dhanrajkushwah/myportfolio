@@ -78,22 +78,24 @@
   .card svg.material-icons path {
     fill: #888;
   }
+  
   header {
     background-color: #333;
     color: white;
     padding: 10px 0;
     text-align: center;
-  
-    nav a {
-      margin: 0 15px;
-      color: black;
-      text-decoration: none;
-      font-weight: 400px;
-      font-size: 16px;
-    }
-  
-    nav a:hover {
-      color: #1abc9c;
-    }
   }
+  
+  nav a {
+    margin: 0 15px;
+    color: black;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  
+  nav a:hover {
+    color: #1abc9c;
+  }
+  
   
